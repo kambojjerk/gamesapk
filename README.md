@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
-    </head>
-
-    <body>
-        <div style="text-align: left;">
+<div style="text-align: left;">
+            <style>
+                *{text-align: left;}
+            </style>
             <h2>Here are my favorite APK sites:</h2>
             <ul>
                 <li><a href="https://picassoappz.com/">Picasso app</a>: A free online streaming solution that allows you to
@@ -16,6 +9,3 @@
                     Prime.</li>
             </ul>
         </div>
-    </body>
-
-</html>
